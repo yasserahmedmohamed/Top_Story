@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TOP STORY</string>
+   home
+<string name="firstpart"> http://api.nytimes.com/svc/topstories/v2/</string>
+<string name="lastpart">.json?api-key=</string>
+    <string name="keypath">8e7efd253a3a47c5badb8e98a705595f</string>
+</resources>
